@@ -10,7 +10,7 @@ build:
     - graphviz
 
 formats:
-  - html
+  - htmlzip
 
 python:
   install:
