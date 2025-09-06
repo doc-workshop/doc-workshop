@@ -1,0 +1,5 @@
+# Doc build artifacts
+docs/_build/
+
+# MacOS directory files
+.DS_Store
