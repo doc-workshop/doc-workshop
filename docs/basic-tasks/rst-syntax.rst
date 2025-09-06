@@ -95,11 +95,10 @@ reStructuredText（简称 RST）是一种轻量级标记语言，广泛用于 Py
 
 标题级别由标题的排列顺序自动确定，因此无需为特定字符分配固定的级别。然而，在项目中保持统一的约定有助于维护一致性。推荐遵循如下规范：
 
-=，用于表示「节」（sections）
--，用于表示「小节」（subsections）
-^，用于表示「子小节」（subsubsections）
-"，用于表示「段落」（paragraphs）
-
+- ``=``，用于表示「节」（sections）
+- ``-``，用于表示「小节」（subsections）
+- ``^``，用于表示「子小节」（subsubsections）
+- ``"``，用于表示「段落」（paragraphs）
 
 列表
 -----
