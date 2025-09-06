@@ -1,8 +1,6 @@
 技术文档 Workshop
 ===================
 
-文档编译状态：
-
 Workshop 介绍
 ----------------
 
@@ -22,4 +20,4 @@ Workshop 介绍
 在线文档
 --------
 
-该 GitHub 保存文档源码，直接在 GitHub 中预览文档，效果不佳。如果需要更好的阅读体验，请前往在线文档。
+该 GitHub 保存文档源码，直接在 GitHub 中预览文档，效果不佳。如果需要更好的阅读体验，请前往在线文档 (https://doc-workshop.readthedocs.io/basic-tasks/index.html)。
