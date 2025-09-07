@@ -1,0 +1,16 @@
+{% extends '!layout.html' %}
+{% block comments %}
+{% endblock %}
+
+{# 在 extrahead 区块中添加 Google Analytics 代码 #}
+{% block extrahead %}
+    {{ super() }}
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-9QTEY752B8"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', 'G-9QTEY752B8');
+    </script>
+{% endblock %}
